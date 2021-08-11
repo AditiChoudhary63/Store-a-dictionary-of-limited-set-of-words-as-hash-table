@@ -1,0 +1,2 @@
+# Store-a-dictionary-of-limited-set-of-words-as-hash-table
+A spell checker is a common application used in conjunction with document preparation. Essentially, the spell checker will maintain a dictionary of words that are spelled correctly. Then, it will go through every word in a given text document and check if that word is found in the dictionary. If it is not found, then the word is assumed to be spelled incorrectly.
